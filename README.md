@@ -7,7 +7,7 @@
 
 <h3 align="left">Contáctame:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alan-boronat/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/alan-boronat/" height="30" width="40" /></a><p>https://linkedin.com/in/https://www.linkedin.com/in/alan-boronat/</p>
+<a href="https://www.linkedin.com/in/alan-boronat/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/alan-boronat/" height="30" width="40" /></a><p>htps://www.linkedin.com/in/alan-boronat</p>
 
 
 <h3 align="left">Lenguajes & Herramientas:</h3>
